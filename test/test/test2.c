@@ -17,7 +17,7 @@ int main()
     {
         n += j(i);
     }
-    printf("%dHello,world你好", n);
+    printf("%dHello,world你 好", n);
     return 0;
 }
 //#include<stdio.h>
